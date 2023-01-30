@@ -5,7 +5,7 @@ Prueba de conocimientos de aplicación a oferta laboral como desarrollador back 
 
 * [Sprig boot](https://spring.io/guides/gs/spring-boot/) para el backen usando java
 * [Junit](https://junit.org/junit5/) Para escribir pruebas unitarias
-* [VUE 13](https://github.com/vuejs/) para el front
+* [VUE 3](https://github.com/vuejs/) para el front
 
 
 ## Configuración de desarrollo
