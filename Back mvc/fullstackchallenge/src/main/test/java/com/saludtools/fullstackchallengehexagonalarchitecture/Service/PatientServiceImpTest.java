@@ -1,10 +1,10 @@
-package com.saludtools.fullstackchallengehexagonalarchitecture.Service;
+package com.saludtools.fullstackchallenge.Service;
 
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.dto.PatientDTO;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.entity.Gender;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.entity.Patient;
-import com.saludtools.fullstackchallengehexagonalarchitecture.DtoFactory.PatientDtoFactory;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Repository.PatientRepository;
+import com.saludtools.fullstackchallenge.Domain.dto.PatientDTO;
+import com.saludtools.fullstackchallenge.Domain.entity.Gender;
+import com.saludtools.fullstackchallenge.Domain.entity.Patient;
+import com.saludtools.fullstackchallenge.DtoFactory.PatientDtoFactory;
+import com.saludtools.fullstackchallenge.Repository.PatientRepository;
 import org.mockito.MockitoAnnotations;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.junit.jupiter.api.BeforeEach;

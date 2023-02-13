@@ -1,15 +1,15 @@
-package com.saludtools.fullstackchallengehexagonalarchitecture.Service;
+package com.saludtools.fullstackchallenge.Service;
 
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.dto.PrescriptionDTO;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.dto.PrescriptionResponseDTO;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.entity.Gender;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.entity.Medicament;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.entity.Patient;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.entity.Prescription;
-import com.saludtools.fullstackchallengehexagonalarchitecture.DtoFactory.PrescriptionDtoFactory;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Repository.MedicamentRepository;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Repository.PatientRepository;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Repository.PrescriptionRepository;
+import com.saludtools.fullstackchallenge.Domain.dto.PrescriptionDTO;
+import com.saludtools.fullstackchallenge.Domain.dto.PrescriptionResponseDTO;
+import com.saludtools.fullstackchallenge.Domain.entity.Gender;
+import com.saludtools.fullstackchallenge.Domain.entity.Medicament;
+import com.saludtools.fullstackchallenge.Domain.entity.Patient;
+import com.saludtools.fullstackchallenge.Domain.entity.Prescription;
+import com.saludtools.fullstackchallenge.DtoFactory.PrescriptionDtoFactory;
+import com.saludtools.fullstackchallenge.Repository.MedicamentRepository;
+import com.saludtools.fullstackchallenge.Repository.PatientRepository;
+import com.saludtools.fullstackchallenge.Repository.PrescriptionRepository;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

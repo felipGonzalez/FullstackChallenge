@@ -1,9 +1,9 @@
-package com.saludtools.fullstackchallengehexagonalarchitecture.Service;
+package com.saludtools.fullstackchallenge.Service;
 
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.dto.MedicamentDTO;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Domain.entity.Medicament;
-import com.saludtools.fullstackchallengehexagonalarchitecture.DtoFactory.MedicamentDTOFactory;
-import com.saludtools.fullstackchallengehexagonalarchitecture.Repository.MedicamentRepository;
+import com.saludtools.fullstackchallenge.Domain.dto.MedicamentDTO;
+import com.saludtools.fullstackchallenge.Domain.entity.Medicament;
+import com.saludtools.fullstackchallenge.DtoFactory.MedicamentDTOFactory;
+import com.saludtools.fullstackchallenge.Repository.MedicamentRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
